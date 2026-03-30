@@ -41,7 +41,7 @@ Part B – Google Form
 
 A Digital Literacy Awareness Quiz with 5 questions was created using Google Forms.
 
- Google Form Link: https://forms.google.com/
+ Google Form Link:https://docs.google.com/forms/d/e/1FAIpQLSf1rj0xkMovK0srP-AGfNs2bSSbkQAziii7t-v8vwCb_7xPkg/viewform?usp=publish-editor
 
  Task 4 – Email Etiquette
 
